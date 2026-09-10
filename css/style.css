@@ -26,3 +26,11 @@ body {
     width: 250px;
     border-radius: 50%;
 }
+
+.site-footer {
+    padding: 30px 15px;
+}
+
+.site-footer a {
+    color: #f0a500;
+}
